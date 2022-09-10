@@ -5,7 +5,7 @@ body {
 .contain {
   display: block;
   margin: 0 auto;
-  max-width: 70%;
+  max-width: 600px;
   padding: 10px 0;
   background-color: #bae8e8;
   border-radius: 10px;
@@ -37,6 +37,7 @@ p {
   text-align: center;
   line-height: 1.5;
   font-size: 16px;
+  margin: 10px;
 }
 
 strong {
@@ -48,6 +49,7 @@ strong {
   font-size: 14px;
   text-decoration: none;
   transition: all 100ms ease-in-out;
+  margin: 0 15px;
 }
 
 .learn-more:hover {
